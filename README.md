@@ -1,8 +1,6 @@
 # Frontend Mentor - Order summary card
 
 ## Mobile
-
-![mobile-design](https://user-images.githubusercontent.com/87684131/163040257-85ba9f41-93ea-4aac-aebd-550a175fe28b.jpg)
-
+![mobile-design](https://user-images.githubusercontent.com/87684131/163047196-eb00884d-ca37-4d43-9640-ac23adb2df22.jpg)
 ## Desktop
-![desktop-preview](https://user-images.githubusercontent.com/87684131/163040443-3172a2e0-063a-4666-928d-21871466f97e.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/87684131/163047167-ba498f4c-0736-40b3-8bb0-4fc7eaeba0a1.jpg)
