@@ -66,6 +66,9 @@ main .informations .price {
    flex-direction: column;
    color: #1f2f56;
 }
+.valor {
+   font-size: 1rem;
+}
 main .informations img {
    width: 50px;
    margin-right: 1rem;
